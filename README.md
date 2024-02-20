@@ -7,7 +7,7 @@
 <h4>My self Gaurav Kumar 😉</h4>
 <h4>I am currently 19 y.o.😇</h4>
 <h4>You can use a pronoun for me he/him/his😌</h4>
-<h4>Currently pursuing B.tech from [AKTU](https://aktu.ac.in/)
+<h4>Currently pursuing B.tech from <a href="https://aktu.ac.in/">AKTU</a>
 <h4>Trying to figure out various things🤓</h4>
 <hr>
   
