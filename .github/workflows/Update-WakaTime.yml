@@ -25,3 +25,4 @@ jobs:
           SYMBOL_VERSION: "3"
           SHOW_LOC_CHART: "False"
           SHOW_LINES_OF_CODE: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
