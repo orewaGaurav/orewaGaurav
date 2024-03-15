@@ -2,7 +2,7 @@
 <h1>Hello There <img src="https://media.giphy.com/media/MHia4pcE4RYf49KbVC/giphy.gif" width="100">
   
 </h1></summary><br>
-<h1><img src="https://gifdb.com/images/high/yo-child-luffy-r185fas1ytgepv89.gif" height="400"/></h1>
+<h1><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanV6cGczMDV2ODJ5djM4dW9paHR3dXVyNjlpeWs2cjB3bHJlZHNsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zqihZZ5Qny4q4/giphy.gif" height="300"/></h1>
 
 <h4>My self Gaurav Kumar 😉</h4>
 <h4>I am currently 19 y.o.😇</h4>
@@ -13,7 +13,7 @@
   
 <!--Connect with me-->
 <details><summary><h2>Connect with me :speech_balloon:</h2></summary><br>
-<h3><img src="https://media.giphy.com/media/nlZ48YxovyJZCHX9gv/giphy.gif" /></h3>
+<h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRycGxiN2J5ZnhybXpva2I3NjA4MXcyZWt2OGUwa2xqcGZqYWE3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0BKCQJDzoTaeQyA0/giphy.gif" /></h3>
 <p>
     
   <b>In case if you want to reach out to me about anything, be it some doubt or just to hangout and talk ☺️</b>
