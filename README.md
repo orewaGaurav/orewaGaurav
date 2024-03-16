@@ -16,9 +16,9 @@
 <h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRycGxiN2J5ZnhybXpva2I3NjA4MXcyZWt2OGUwa2xqcGZqYWE3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0BKCQJDzoTaeQyA0/giphy.gif" /></h3>
 <p>
     
-  <b>In case if you want to reach out to me about anything, be it some doubt or just to hangout and talk ☺️</b>
+  <b>What are you waiting for...☺️</b>
 </br>
-  <b>All the contact methods provided are provided in the proper priority according to me. It'll take more time to get a reply as you move down.</b>
+  <b>Hit your fingers here alredy👇.</b>
 </br>
   
   <a href="https://telegram.dog/VenomGK"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"></a>
