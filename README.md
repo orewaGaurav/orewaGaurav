@@ -61,7 +61,7 @@
 <details><summary><h2>My Stats 😉</h2></summary><br>
 
 
-<h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzExMmxtOTVmNTgzbWNiZ29zcHJjMGh6encxYzFxemhzc3Aza3VqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JJMMbPTecaqdUJaPic/giphy.gif" /></h3>
+<h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhzMmhoeHprZmg3Zm9iZW1lYzA5bWQ1OWpyeHNwOGZ3Ym40d2IyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QgwXffX7n4tMY/giphy.gif" /></h3>
 
 <p>
   <a><img src="https://github-readme-stats.vercel.app/api?username=orewaGaurav&count_private=true&show_icons=true&include_all_commits=true&bg_color=000000&icon_color=ff3300&text_color=e60000&title_color=cc3300&border_color=ff0000" alt="Stats"></a></br></br>
