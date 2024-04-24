@@ -98,7 +98,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 119 Bytes Used in GitHub's Storage 
+> 📦 120 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 104 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -157,7 +159,7 @@ Python                   2 repos             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 
 
 
- Last Updated on 23/04/2024 18:36:14 UTC
+ Last Updated on 24/04/2024 18:36:30 UTC
 <!--END_SECTION:waka-->
 
 ### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
