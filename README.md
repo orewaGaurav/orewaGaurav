@@ -98,7 +98,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 128 Bytes Used in GitHub's Storage 
+> 📦 129 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 106 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -159,7 +161,7 @@ HTML                     1 repo              ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 05/05/2024 18:36:56 UTC
+ Last Updated on 06/05/2024 18:36:59 UTC
 <!--END_SECTION:waka-->
 
 ### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
