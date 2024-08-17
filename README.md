@@ -100,6 +100,8 @@
 
 > 📦 411 Bytes Used in GitHub's Storage 
  > 
+> 🏆 167 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -158,7 +160,7 @@ HTML                     1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 16/08/2024 18:40:38 UTC
+ Last Updated on 17/08/2024 18:38:55 UTC
 <!--END_SECTION:waka-->
 
 ### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
