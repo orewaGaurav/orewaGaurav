@@ -18,7 +18,7 @@
     
   <b>What are you waiting for...☺️</b>
 </br>
-  <b>Hit your fingers here alredy👇.</b>
+  <b>Hit your fingers here already👇.</b>
 </br>
   
   <a href="https://telegram.dog/VenomGK"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"></a>
